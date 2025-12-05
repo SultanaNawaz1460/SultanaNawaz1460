@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Telecommunication+Engineer;AI+%26+ML+Enthusiast;5G%2F6G+Network+Researcher;Computer+Vision+Developer;Wireless+Network+Optimizer" alt="Typing SVG" />
 
-### 🎓 Final Year Telecommunication Engineering Student @ UET Taxila
+### 🎓 Telecommunication Engineering Student
 ### 🚀 Bridging AI with Next-Gen Wireless Networks
 
 <p align="center">
