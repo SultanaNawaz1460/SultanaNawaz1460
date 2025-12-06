@@ -247,12 +247,3 @@ I'm always excited to collaborate on innovative projects in **Telecommunication*
 
 ---
 
-### ⚡ *"The future of communication is intelligent, adaptive, and powered by AI"*
-
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
-
-**Thanks for visiting! Feel free to star ⭐ my repositories if you find them interesting!**
-
-![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
-
-</div>
