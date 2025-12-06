@@ -12,9 +12,9 @@
   <img src="https://img.shields.io/github/followers/sultananawaz?label=Followers&style=social" alt="followers" />
 </p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
-[![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](YOUR_FIVERR_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sultana-nawaz-95155b328/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](sultananawaz1460@gmail.com)
+[![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/s/7YpPxGx)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](YOUR_PORTFOLIO_URL)
 
 </div>
@@ -84,118 +84,6 @@ me.say_hi()
 ![Optical](https://img.shields.io/badge/Optical_Fiber-00B4D8?style=for-the-badge&logo=fiber&logoColor=white)
 
 </div>
-
----
-
-## 🔬 Featured Projects
-
-<details open>
-<summary><b>🎯 Major Research & Academic Projects</b></summary>
-<br>
-
-### 📡 [Machine Learning-Based 4G LTE Signal Strength Prediction](YOUR_REPO_LINK)
-**Technologies:** `Python` `Random Forest` `SVM` `Neural Networks` `RSRP Analysis`
-
-> Developed an ML-based prediction system for 4G LTE network coverage optimization using real radio network measurements. Achieved high accuracy in RSRP prediction for network planning applications.
-
-**Key Features:**
-- 📊 Advanced data preprocessing & feature engineering
-- 🎯 Comparative analysis of multiple ML models
-- 📈 Network quality optimization insights
-- 🗺️ Coverage prediction for telecom operators
-
----
-
-### 🤖 [Network Slicing for 5G/6G Using Deep Reinforcement Learning](YOUR_REPO_LINK)
-**Technologies:** `Python` `PPO` `Deep RL` `5G` `Network Slicing` `QoS Management`
-
-> Implemented intelligent resource allocation using Proximal Policy Optimization (PPO) for eMBB services in next-generation networks.
-
-**Key Features:**
-- 🧠 Deep Reinforcement Learning implementation
-- 🎛️ Dynamic resource allocation
-- 📊 QoS-aware network slicing
-- 🚀 Future 6G cognitive network applications
-
----
-
-### 👤 [Real-Time Face Recognition System](YOUR_REPO_LINK)
-**Technologies:** `Python` `CNN` `OpenCV` `Deep Learning` `Real-time Processing`
-
-> Built a complete identity recognition system using CNN with live camera feed integration.
-
-**Key Features:**
-- 🎥 Real-time face detection & recognition
-- 📋 Display name, age, department, gender
-- 🔒 Security & attendance system applications
-- ⚡ High-speed inference
-
----
-
-### 🎮 [Gesture-Controlled Snake Game](YOUR_REPO_LINK)
-**Technologies:** `Python` `MediaPipe` `OpenCV` `Computer Vision` `Hand Tracking`
-
-> Interactive gaming experience using computer vision and gesture recognition without keyboard input.
-
-**Key Features:**
-- ✋ Real-time hand tracking
-- 🎯 Gesture-based game control
-- 🎨 Human-computer interaction demonstration
-- 🎮 Fun + Technical depth
-
----
-
-### 🎨 [Real-Time Air Canvas Using Hand Gestures](YOUR_REPO_LINK)
-**Technologies:** `Python` `MediaPipe` `OpenCV` `Gesture Recognition`
-
-> Draw in the air using only a webcam! Demonstrates precision computer vision and gesture-based interaction.
-
-**Key Features:**
-- ✍️ Index finger tracking
-- 🎨 Real-time drawing application
-- 📹 Webcam-only interface
-- 🖼️ Digital interaction innovation
-
----
-
-### 📡 [Digital Communication System Simulation](YOUR_REPO_LINK)
-**Technologies:** `MATLAB` `Simulink` `BCH Encoding` `QPSK` `Viterbi Decoding`
-
-> End-to-end digital communication system with complete signal processing pipeline.
-
-**Key Features:**
-- 📊 BER performance evaluation
-- 🔧 Modulation & coding techniques
-- 📈 AWGN channel simulation
-- 🎯 Complete encoding/decoding chain
-
----
-
-### 💡 [Optical Fiber Communication with ML](YOUR_REPO_LINK)
-**Technologies:** `MATLAB` `Python` `Machine Learning` `Coherent Optical Systems`
-
-> Research-oriented project focusing on phase noise mitigation using ML in next-gen optical networks.
-
-**Key Features:**
-- 🌐 Coherent optical communication
-- 🤖 ML-based noise reduction
-- 🔬 Next-generation optical networks
-- 📡 Intelligent receiver design
-
----
-
-### 📚 [Machine Learning Lab Manuals & Implementations](YOUR_REPO_LINK)
-**Technologies:** `Python` `Scikit-learn` `TensorFlow` `Educational Resources`
-
-> Complete repository of ML algorithms implemented from scratch with detailed documentation.
-
-**Key Features:**
-- 📖 Classification, regression, clustering
-- 📊 Performance metrics & evaluation
-- 🎓 Educational reference material
-- 💻 Beginner to intermediate level
-
-</details>
 
 ---
 
