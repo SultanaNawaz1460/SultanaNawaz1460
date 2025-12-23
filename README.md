@@ -157,21 +157,6 @@ mindmap
 
 </div>
 
----
-
-## 💼 Professional Experience
-
-### 🌟 Freelancer
-**TeacherOn & Fiverr** | *Active*
-
-- 📊 Data entry and organization
-- 🔍 Web research and analysis
-- 📝 Technical documentation
-- 📄 Report writing and dataset management
-- ⏰ Meeting strict deadlines with professional communication
-
----
-
 ## 🌱 Currently Learning & Exploring
 
 <div align="center">
