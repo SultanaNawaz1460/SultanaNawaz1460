@@ -191,14 +191,14 @@ I'm always excited to collaborate on innovative projects in **Telecommunication*
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_URL)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:YOUR_EMAIL)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/sultananawaz)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sultana-nawaz-95155b328/)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](sultananawaz1460@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)]([https://github.com/sultananawaz](https://github.com/SultanaNawaz1460))
 
 <br>
 
-### 📧 Email: YOUR_EMAIL_HERE
-### 🌍 Location: Wah Cantt, Punjab, Pakistan
+### 📧 Email: sultananawaz1460@mail.com
+### 🌍 Location: UET Taxila, Punjab, Pakistan
 
 </div>
 
