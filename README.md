@@ -161,14 +161,14 @@ mindmap
 
 <div align="center">
 
-![Learning](https://img.shields.io/badge/6G_Networks-Research-blue?style=for-the-badge)
+![Learning](https://img.shields.io/badge/5G/6G_Networks-Research-blue?style=for-the-badge)
 ![Learning](https://img.shields.io/badge/Advanced_Deep_RL-Learning-green?style=for-the-badge)
 ![Learning](https://img.shields.io/badge/Edge_AI-Exploring-orange?style=for-the-badge)
 ![Learning](https://img.shields.io/badge/Network_Automation-Developing-red?style=for-the-badge)
 
 </div>
 
-- 🚀 Advanced 6G network architectures
+- 🚀 Advanced 5G/6G network architectures
 - 🧠 Transformer models for time-series prediction
 - 🌐 Edge AI for wireless networks
 - 📡 Satellite communication systems
