@@ -209,9 +209,9 @@ I'm always excited to collaborate on innovative projects in **Telecommunication*
 ## 🌟 Fun Facts About Me
 
 💡 I can simulate an entire 4G network before breakfast!  
-🎮 Built a game controlled entirely by hand gestures  
-🎨 Can draw in the air using computer vision  
+🎮 Built a game controlled entirely by hand gestures
 📡 Passionate about making 6G networks intelligent  
+🎨 Can draw in the air using computer vision   
 🤖 Dream of AI-powered healthcare communication systems  
 
 ---
