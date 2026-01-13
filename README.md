@@ -233,50 +233,53 @@ I'm always excited to collaborate on innovative projects in **Telecommunication*
 </div>
 
 ---
-
-### 👩‍💻 About Me
-
-Hi, I'm **Sultana**! I am a **Telecommunication Engineering student** at **UET Taxila** with a passion for bridging the gap between hardware networks and Artificial Intelligence.
-
-While most engineers focus on *building* networks, I focus on **making them think**. My research revolves around using **Deep Reinforcement Learning** to optimize **5G/6G Network Slicing** and optical fiber communications.
-
-- 🔭 **Currently working on:** Network Slicing optimization using Deep RL agents.
-- 🌱 **Learning:** Advanced Computer Vision architectures for signal processing.
-- 🎯 **Goal:** Revolutionize Wireless Networks with AI.
-
----
-
-### 🛠️ Tech Stack & Tools
-
 <div align="center">
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-<img src="https://img.shields.io/badge/MATLAB-e16737?style=for-the-badge&logo=mathworks&logoColor=white" />
+<table border="0" width="100%">
+  <tr>
+    <td width="60%" valign="center">
+      <h1>Hi, I'm Sultana Nawaz <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
+      <h3>📡 Telecommunication Engineer | 🤖 AI Researcher</h3>
+      <br>
+      <p>
+        I am a final-year student at <b>UET Taxila</b> bridging the gap between hardware and intelligence. While most engineers build networks, I focus on making them smart.
+      </p>
+      <p>
+        My work specializes in <b>5G/6G Network Optimization</b>, combining <b>Deep Reinforcement Learning</b> with wireless systems to revolutionize how we connect.
+      </p>
+      <br>
+      
+      <ul>
+        <li>🔭 <b>Current Focus:</b> Network Slicing with Deep RL agents.</li>
+        <li>🌱 <b>Learning:</b> Computer Vision for Signal Processing.</li>
+        <li>🎯 <b>Goal:</b> Building self-optimizing wireless networks.</li>
+      </ul>
 
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-<img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+      <br>
+      <a href="https://www.linkedin.com/in/sultana-nawaz-95155b328/">
+        <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="30"/>
+      </a>
+      <a href="mailto:sultananawaz1460@gmail.com">
+        <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="30"/>
+      </a>
+      <a href="https://www.fiverr.com/s/kLrBvRo">
+        <img src="https://img.shields.io/badge/Portfolio-Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" height="30"/>
+      </a>
+    </td>
 
-<img src="https://img.shields.io/badge/Cisco_Packet_Tracer-049FD9?style=for-the-badge&logo=cisco&logoColor=white" />
-<img src="https://img.shields.io/badge/Optical_Fiber-Black?style=for-the-badge&logo=lighthouse&logoColor=white" />
+    <td width="40%" align="center">
+      <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/04de2e31234507.564a1d230287b.gif" width="100%" alt="Girl Coding Animation"/>
+    </td>
+  </tr>
+</table>
 
-</div>
+<h3 align="left">🛠️ Technologies & Tools</h3>
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/MATLAB-e16737?style=flat&logo=mathworks&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/5G_Networks-black?style=flat&logo=cisco&logoColor=white" />
+</p>
 
----
-
-### 📊 GitHub Analytics
-
-<div align="center">
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=SultanaNawaz1460&show_icons=true&theme=radical&hide_border=true&count_private=true" height="150" alt="stats graph"  />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SultanaNawaz1460&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
-</div>
-
-<br>
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=SultanaNawaz1460&label=Profile%20Views&color=0e75b6&style=flat" alt="sultana-views" />
 </div>
