@@ -216,3 +216,67 @@ I'm always excited to collaborate on innovative projects in **Telecommunication*
 
 ---
 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=009688&height=250&section=header&text=Sultana%20Nawaz&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Building%20the%20Future%20of%20Wireless%20Networks%20with%20AI&descAlignY=55&descAlign=50" width="100%"/>
+</div>
+
+<div align="center">
+
+  ### 📡 Telecommunication Engineer | 🤖 AI & Deep Learning Enthusiast
+  
+  *5G/6G Network Optimization | Deep Reinforcement Learning | Computer Vision*
+
+  [![](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sultana-nawaz-95155b328/)
+  [![](https://img.shields.io/badge/Fiverr-Hire_Me-green?style=for-the-badge&logo=fiverr)](https://www.fiverr.com/s/kLrBvRo)
+  [![](https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail)](mailto:sultananawaz1460@gmail.com)
+
+</div>
+
+---
+
+### 👩‍💻 About Me
+
+Hi, I'm **Sultana**! I am a **Telecommunication Engineering student** at **UET Taxila** with a passion for bridging the gap between hardware networks and Artificial Intelligence.
+
+While most engineers focus on *building* networks, I focus on **making them think**. My research revolves around using **Deep Reinforcement Learning** to optimize **5G/6G Network Slicing** and optical fiber communications.
+
+- 🔭 **Currently working on:** Network Slicing optimization using Deep RL agents.
+- 🌱 **Learning:** Advanced Computer Vision architectures for signal processing.
+- 🎯 **Goal:** Revolutionize Wireless Networks with AI.
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+<img src="https://img.shields.io/badge/MATLAB-e16737?style=for-the-badge&logo=mathworks&logoColor=white" />
+
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Cisco_Packet_Tracer-049FD9?style=for-the-badge&logo=cisco&logoColor=white" />
+<img src="https://img.shields.io/badge/Optical_Fiber-Black?style=for-the-badge&logo=lighthouse&logoColor=white" />
+
+</div>
+
+---
+
+### 📊 GitHub Analytics
+
+<div align="center">
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=SultanaNawaz1460&show_icons=true&theme=radical&hide_border=true&count_private=true" height="150" alt="stats graph"  />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SultanaNawaz1460&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
+</div>
+
+<br>
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=SultanaNawaz1460&label=Profile%20Views&color=0e75b6&style=flat" alt="sultana-views" />
+</div>
