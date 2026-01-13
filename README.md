@@ -22,7 +22,7 @@
 ---
 
 ## 🌟 About Me
-
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" min-width="300px" max-width="300px" width="300px" align="right">
 ```python
 class SultanaNawaz:
     def __init__(self):
