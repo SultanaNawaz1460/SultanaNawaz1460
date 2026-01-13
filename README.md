@@ -233,53 +233,62 @@ I'm always excited to collaborate on innovative projects in **Telecommunication*
 </div>
 
 ---
+<h1 align="center">Hi there, I'm Sultana Nawaz 👋</h1>
+<h3 align="center">🚀 Telecommunication Engineer | AI & Deep Learning Researcher</h3>
+
+<br>
+
 <div align="center">
+  
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E91E3&center=false&vCenter=false&width=435&lines=Bridging+Telecom+%26+AI;Optimizing+5G%2F6G+Networks;Deep+Reinforcement+Learning" alt="Typing SVG" />
+</a>
 
-<table border="0" width="100%">
-  <tr>
-    <td width="60%" valign="center">
-      <h1>Hi, I'm Sultana Nawaz <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
-      <h3>📡 Telecommunication Engineer | 🤖 AI Researcher</h3>
-      <br>
-      <p>
-        I am a final-year student at <b>UET Taxila</b> bridging the gap between hardware and intelligence. While most engineers build networks, I focus on making them smart.
-      </p>
-      <p>
-        My work specializes in <b>5G/6G Network Optimization</b>, combining <b>Deep Reinforcement Learning</b> with wireless systems to revolutionize how we connect.
-      </p>
-      <br>
-      
-      <ul>
-        <li>🔭 <b>Current Focus:</b> Network Slicing with Deep RL agents.</li>
-        <li>🌱 <b>Learning:</b> Computer Vision for Signal Processing.</li>
-        <li>🎯 <b>Goal:</b> Building self-optimizing wireless networks.</li>
-      </ul>
+</div>
 
-      <br>
-      <a href="https://www.linkedin.com/in/sultana-nawaz-95155b328/">
-        <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="30"/>
-      </a>
-      <a href="mailto:sultananawaz1460@gmail.com">
-        <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="30"/>
-      </a>
-      <a href="https://www.fiverr.com/s/kLrBvRo">
-        <img src="https://img.shields.io/badge/Portfolio-Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" height="30"/>
-      </a>
-    </td>
+<div align="left">
 
-    <td width="40%" align="center">
-      <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/04de2e31234507.564a1d230287b.gif" width="100%" alt="Girl Coding Animation"/>
-    </td>
-  </tr>
-</table>
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTV0MHN0ZGd0b3g5Z3Z0ZGd0b3g5Z3Z0ZGd0b3g5Z3Z0L2NtM3I0dDN2eWJz/LpSKq6k4rT2sL6sQG1/giphy.gif">
 
-<h3 align="left">🛠️ Technologies & Tools</h3>
+I am a **Telecommunication Engineering student** at **UET Taxila** with a strong focus on integrating Artificial Intelligence into wireless communication systems. 
+
+My work moves beyond traditional networking by applying **Machine Learning** and **Deep Reinforcement Learning (DRL)** to solve complex problems in **5G/6G optimization**.
+
+<br>
+
+Pronouns: **She/Her** 📍 Location: **Wah Cantt, Pakistan** 🎓 Education: **B.Sc. Telecommunication Engineering** ---
+
+### 🔬 Research Interests
+* **AI-Driven Wireless Systems:** Automating network management using AI.
+* **5G/6G Optimization:** Reducing latency and improving throughput.
+* **Computer Vision:** Applying vision transformers to signal processing.
+
+### 🛠️ Technical Stack
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/MATLAB-e16737?style=flat&logo=mathworks&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/5G_Networks-black?style=flat&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/MATLAB-e16737?style=flat-square&logo=mathworks&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
 </p>
 
+### 📬 Connect with Me
+<p align="left">
+<a href="https://www.linkedin.com/in/sultana-nawaz-95155b328/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:sultananawaz1460@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+</p>
+
+</div>
+
+<br clear="all">
+
+---
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SultanaNawaz1460&show_icons=true&theme=minimal&hide_border=true&count_private=true" height="150" />
 </div>
