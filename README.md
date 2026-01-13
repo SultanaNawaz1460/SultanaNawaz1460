@@ -216,3 +216,14 @@ I'm always excited to collaborate on innovative projects in **Telecommunication*
 
 ---
 
+### 👋 Hi, I’m Sultana Nawaz
+
+I’m a Telecommunication Engineering student at UET Taxila with a strong interest in Artificial Intelligence (AI) and Machine Learning (ML) for wireless communication systems.
+
+My academic focus includes 5G/6G networks, AI-driven wireless optimization, and intelligent network slicing. I enjoy working on research-oriented and practical projects that combine communication theory with modern AI techniques to solve real-world problems.
+
+I aim to grow as an AI-focused telecom engineer, contributing to the development of smart, efficient, and future-ready wireless networks.
+
+✨ Transforming wireless communication through intelligence and innovation.
+<img src="profile-banner.png" alt="Profile Banner" width="100%" />
+
