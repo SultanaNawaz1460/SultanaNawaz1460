@@ -105,7 +105,6 @@ me.say_hi()
 ---
 
 ## 🏆 Expertise Areas
-
 ```mermaid
 mindmap
   root((Sultana Nawaz))
@@ -125,7 +124,6 @@ mindmap
       Python Programming
       MATLAB Simulation
       Real-time Systems
-      CV Applications
       Research Projects
     Professional
       Freelancing
@@ -135,7 +133,6 @@ mindmap
       Client Communication
 ```
 
----
 
 ## 🎓 Research Interests
 
