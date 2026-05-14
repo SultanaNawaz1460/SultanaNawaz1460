@@ -9,7 +9,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sultananawaz&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/sultananawaz?label=Followers&style=social" alt="followers" />
+  <img src="https://img.shields.io/github/followers/sultananawaz?label= 100kFollowers&style=social" alt="followers" />
 </p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sultana-nawaz-95155b328/)
