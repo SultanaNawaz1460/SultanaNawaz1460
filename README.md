@@ -9,8 +9,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sultananawaz&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/sultananawaz?label100k= Followers&style=social" alt="followers" />
-</p>
+<img src="https://img.shields.io/badge/Followers-100K-success?style=for-the-badge" alt="followers" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sultana-nawaz-95155b328/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](sultananawaz1460@gmail.com)
